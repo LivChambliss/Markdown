@@ -1,9 +1,9 @@
 >This is
 >my block qoute example
 
-..* list
-..* list
-..* list
+* list
+* list
+* list
 
 1. List
 2. list
