@@ -1,1 +1,1 @@
-[Second Page]<https://github.com/LivChambliss/Markdown/blob/master/page.md>
+[Second Page](https://github.com/LivChambliss/Markdown/blob/master/page.md)
